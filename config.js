@@ -8,21 +8,18 @@ import axios from 'axios';
 import moment from 'moment-timezone';
 
 global.owner = [
-  ['390371717717', 'nobody|'],
-  ['393518398856', 'nobody|'],
-  ['393755775755', 'nobody|'],
-  ['393755575577', 'nobody|'],
-  ['33760536110', 'nobody|'],
+  ['393468100303', 'seba'],
+  
 ]
-global.suittag = ['390371717717'] 
-global.prems = ['390371717717'] 
-global.reportes_solicitudes = ['390371717717']
+global.suittag = ['393468100303'] 
+global.prems = ['393468100303'] 
+global.reportes_solicitudes = ['393468100303']
 
-global.packname = '(☞ﾟ∀ﾟ)☞'
-global.author = '★ცơɬῳɧąıɬą★'
-global.wm = '★ცơɬῳɧąıɬą ★'
+global.packname = 'sei gay'
+global.author = 'spiderpork'
+global.wm = 'spiderpork'
 global.vs = '4.0'
-global.igfg = '★ცơɬῳɧąıɬą★'
+global.igfg = 'spiderpork'
 global.wait = '*[❗]⌛ _Caricando..._*\n*▰▰▰▱▱▱▱▱*'
 
 global.imagen1 = fs.readFileSync('./Menu2.jpg')
